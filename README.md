@@ -15,8 +15,7 @@
   ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=PHP)
   ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel) 
   ![jquery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery) 
-  ![C#](https://img.shields.io/badge/c#-333333?style=flat&logo=C3)
-  
+  ![C#](https://img.shields.io/badge/c#-333333?style=flat&logo=C#)
   <br/>
   ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
