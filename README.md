@@ -13,13 +13,16 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=PHP)
-  ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel)  
+  ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel) 
+  ![jquery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery) 
+  ![C#](https://img.shields.io/badge/c#-333333?style=flat&logo=C3)
+  
   <br/>
   ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
   ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   <br/>
-    ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+  ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
   <br/>
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  
@@ -37,6 +40,7 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=007ACC)
+  ![xampp](https://img.shields.io/badge/-xampp-333333?style=flat&logo=xampp)
 
 <br/>
 
