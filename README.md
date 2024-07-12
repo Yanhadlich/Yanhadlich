@@ -16,15 +16,14 @@
   ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel) 
   ![jquery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery) 
   ![json](https://img.shields.io/badge/json-333333?style=flat&logo=json)
+  ![C#]
   <br/>
   ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
   ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
-  bootstrap
   <br/>
   ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-  <br/>
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  
 **Ferramentas de Utilidades e Infraestrutura**
