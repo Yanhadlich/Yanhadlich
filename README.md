@@ -1,4 +1,4 @@
-<img src="https://github.com/Yanhadlich/images/blob/main/astronauta.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Astronauta-Yan">
+<img src="https://github.com/Yanhadlich/images/blob/main/astronauta.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astronauta-Yan">
 
 <h3> :man: &nbsp;Sobre mim</h3>
 
