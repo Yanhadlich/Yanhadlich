@@ -17,6 +17,7 @@
   ![jquery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery) 
   ![json](https://img.shields.io/badge/json-333333?style=flat&logo=json)
   ![C#](https://img.shields.io/badge/C%-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <br/>
   ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
