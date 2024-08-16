@@ -3,7 +3,6 @@
 <h3> :man: &nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS**.
 - 💼 &nbsp; Atualmente atuando como **DEV WEB FULL-STACK**
 - 🌱 &nbsp; Aprendendo mais a cada dia sobre <br/> **PHP/JAVASCRIPT/MySQL/LARAVEL/ETC**.
 
