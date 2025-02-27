@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/Yanhadlich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yanhadlich&show_icons=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanhadlich&show_icons=true&theme=radical)]
 </a>
 
 <br/>
