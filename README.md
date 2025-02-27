@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/Yanhadlich">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanhadlich&show_icons=true&theme=radical)]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanhadlich&show_icons=true&theme=radical)
 </a>
 
 <br/>
