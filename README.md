@@ -42,11 +42,6 @@
   ![wordpress](https://img.shields.io/badge/-wordpress-333333?style=flat&logo=wordpress)
 
 <br/>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanhadlich&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Yanhadlich) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanhadlich&layout=compact&theme=radical)
-
-
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
@@ -62,5 +57,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55479891661872"/></a>
 
   <a href="https://www.instagram.com/yanhadlich/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yanhadlich/"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yanhadlich/"/>   </a>
 </p>  
